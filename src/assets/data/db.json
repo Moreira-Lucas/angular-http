@@ -13,10 +13,11 @@
       "price": 194.9
     },
     {
-      "id": 3,
-      "model": "Land Rover Range Rover Velar",
-      "color": "Branco",
-      "price": 377.38
+      "headers": {
+        "normalizedNames": {},
+        "lazyUpdate": null
+      },
+      "id": 3
     }
   ]
 }
